@@ -47,7 +47,3 @@ void loop()
   lcd.setCursor(8,0);
   lcd.print(pHvalue,2);
   } 
-Footer
-© 2023 GitHub, Inc.
-Footer navigation
-Terms
